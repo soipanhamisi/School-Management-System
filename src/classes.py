@@ -2,6 +2,7 @@ from .assets import *
 from rich import print as rprint
 from rich.table import Table
 from time import sleep
+import os
 
 # Def5:CLASS MAIN MENU
 def Class(cursor,connection,console):
@@ -17,6 +18,7 @@ def Class(cursor,connection,console):
         table.add_row("4","Remove a Class")
         table.add_row("5","Go Back (Main Menu)")
         console.print(table)
+        console.print(blahblah) #variable that doesn't exist
         sectionValue = Choice("Enter a Choice(1,2,3,4,5)", [1, 2, 3, 4, 5])
 
         if sectionValue == 1:
@@ -341,3 +343,8 @@ def RemoveClass(cursor,connection,console):
         Enter()
         Lag()
         return 0
+    
+
+
+def poorFormat(  weird, display): #extra spaces before the variables.
+    return (display, weird)

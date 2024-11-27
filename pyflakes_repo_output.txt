@@ -1,0 +1,421 @@
+.\main.py:15:1: 'os.path' imported but unused
+.\main.py:66:29: f-string is missing placeholders
+.\main.py:68:25: f-string is missing placeholders
+.\main.py:75:25: f-string is missing placeholders
+.\main.py:79:25: f-string is missing placeholders
+.\main.py:107:85: local variable 'status' is assigned to but never used
+.\src\classes.py:1:1: 'from .assets import *' used; unable to detect undefined names
+.\src\classes.py:5:1: 'os' imported but unused
+.\src\classes.py:11:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:21:23: 'blahblah' may be undefined, or defined from star imports: .assets
+.\src\classes.py:22:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\classes.py:37:23: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:50:20: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:56:28: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:73:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:74:81: local variable 'status' is assigned to but never used
+.\src\classes.py:76:29: f-string is missing placeholders
+.\src\classes.py:77:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:78:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:79:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:83:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:85:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:87:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\classes.py:96:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:116:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:117:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:121:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:135:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:136:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:141:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:155:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:156:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:161:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:170:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\classes.py:184:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:197:15: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:198:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:209:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:216:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:231:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\classes.py:235:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:246:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:280:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:281:79: local variable 'status' is assigned to but never used
+.\src\classes.py:283:25: f-string is missing placeholders
+.\src\classes.py:284:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:285:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:286:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:290:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:292:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:293:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:298:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:311:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:312:15: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\classes.py:324:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:325:77: local variable 'status' is assigned to but never used
+.\src\classes.py:328:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:329:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:330:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:333:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:335:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:337:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:338:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\classes.py:341:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:343:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\classes.py:344:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\mysql_database.py:1:1: 'from .assets import *' used; unable to detect undefined names
+.\src\mysql_database.py:1:1: '.assets.*' imported but unused
+.\src\mysql_database.py:18:21: f-string is missing placeholders
+.\src\mysql_database.py:26:21: f-string is missing placeholders
+.\src\mysql_database.py:28:78: local variable 'status' is assigned to but never used
+.\src\mysql_database.py:34:21: f-string is missing placeholders
+.\src\mysql_database.py:39:67: local variable 'status' is assigned to but never used
+.\src\student.py:1:1: 'from .assets import *' used; unable to detect undefined names
+.\src\student.py:10:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:20:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\student.py:47:24: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:69:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:71:9: local variable 'studentEmail' is assigned to but never used
+.\src\student.py:75:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:87:19: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:89:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:92:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:93:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:101:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:102:81: local variable 'status' is assigned to but never used
+.\src\student.py:104:29: f-string is missing placeholders
+.\src\student.py:105:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:106:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:107:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:110:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:112:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:114:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\student.py:125:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:141:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:142:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:146:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:157:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:158:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:162:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:172:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:173:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:177:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:191:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:192:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:196:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:206:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\student.py:223:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:233:18: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:234:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:243:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:249:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:262:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\student.py:286:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:289:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:302:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:303:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:313:17: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:328:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:329:79: local variable 'status' is assigned to but never used
+.\src\student.py:331:25: f-string is missing placeholders
+.\src\student.py:332:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:333:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:334:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:338:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:340:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:341:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:346:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:362:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:363:18: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\student.py:364:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:374:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:375:77: local variable 'status' is assigned to but never used
+.\src\student.py:378:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:379:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:380:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:383:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:384:20: f-string is missing placeholders
+.\src\student.py:385:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:386:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\student.py:389:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:391:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\student.py:392:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:1:1: 'from .assets import *' used; unable to detect undefined names
+.\src\teacher.py:9:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:19:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:46:24: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:68:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:72:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:84:19: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:86:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:89:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:90:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:96:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:97:81: local variable 'status' is assigned to but never used
+.\src\teacher.py:99:29: f-string is missing placeholders
+.\src\teacher.py:100:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:101:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:102:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:105:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:107:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:109:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:118:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:134:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:135:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:139:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:153:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:154:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:159:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:167:24: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:179:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:189:18: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:190:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:199:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:207:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:220:20: 'Choice' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:244:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:247:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:260:21: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:261:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:271:17: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:286:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:287:79: local variable 'status' is assigned to but never used
+.\src\teacher.py:289:25: f-string is missing placeholders
+.\src\teacher.py:290:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:291:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:292:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:296:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:298:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:299:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:306:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:322:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:323:18: 'Checker' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:324:5: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:334:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:335:77: local variable 'status' is assigned to but never used
+.\src\teacher.py:338:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:339:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:340:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:343:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:344:20: f-string is missing placeholders
+.\src\teacher.py:345:13: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:346:13: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:349:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:351:9: 'Enter' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:352:9: 'Lag' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:370:8: 'a' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:371:12: 'b' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:372:16: 'c' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:373:20: 'd' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:374:24: 'e' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:375:28: 'f' may be undefined, or defined from star imports: .assets
+.\src\teacher.py:376:32: 'g' may be undefined, or defined from star imports: .assets
+.\src\__init__.py:1:1: '.teacher.Teachers' imported but unused
+.\src\__init__.py:1:1: '.teacher.Addteachers' imported but unused
+.\src\__init__.py:1:1: '.teacher.Displayteachers' imported but unused
+.\src\__init__.py:1:1: '.teacher.EditTeacher' imported but unused
+.\src\__init__.py:1:1: '.teacher.EditTeacher2' imported but unused
+.\src\__init__.py:1:1: '.teacher.RemoveTeacher' imported but unused
+.\src\__init__.py:2:1: '.mysql_database.create_database' imported but unused
+.\src\__init__.py:2:1: '.mysql_database.create_table' imported but unused
+.\src\__init__.py:3:1: '.assets.Enter' imported but unused
+.\src\__init__.py:3:1: '.assets.Star' imported but unused
+.\src\__init__.py:3:1: '.assets.Lag' imported but unused
+.\src\__init__.py:3:1: '.assets.Checker' imported but unused
+.\src\__init__.py:3:1: '.assets.Choice' imported but unused
+.\src\__init__.py:4:1: '.student.Addstudent' imported but unused
+.\src\__init__.py:4:1: '.student.EditStudent' imported but unused
+.\src\__init__.py:4:1: '.student.Removestudent' imported but unused
+.\src\__init__.py:4:1: '.student.Displaystudent' imported but unused
+.\src\__init__.py:4:1: '.student.Student' imported but unused
+.\src\__init__.py:4:1: '.student.EditStudent2' imported but unused
+.\src\__init__.py:5:1: '.classes.AddClass' imported but unused
+.\src\__init__.py:5:1: '.classes.RemoveClass' imported but unused
+.\src\__init__.py:5:1: '.classes.EditClass' imported but unused
+.\src\__init__.py:5:1: '.classes.EditClass2' imported but unused
+.\src\__init__.py:5:1: '.classes.DisplayClass' imported but unused
+.\src\__init__.py:5:1: '.classes.Class' imported but unused
+.\venv\Lib\site-packages\pip\_internal\cli\req_command.py:16:1: 'pip._internal.cli.index_command.SessionCommandMixin' imported but unused
+.\venv\Lib\site-packages\pip\_internal\commands\install.py:416:21: 'pip._internal.self_outdated_check' imported but unused
+.\venv\Lib\site-packages\pip\_internal\utils\compat.py:18:9: '_ssl' imported but unused
+.\venv\Lib\site-packages\pip\_internal\utils\unpacking.py:29:5: 'bz2' imported but unused
+.\venv\Lib\site-packages\pip\_internal\utils\unpacking.py:37:5: 'lzma' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:8:1: 'pip._internal.vcs.subversion' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:9:1: 'pip._internal.vcs.versioncontrol.RemoteNotFoundError' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:9:1: 'pip._internal.vcs.versioncontrol.RemoteNotValidError' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:9:1: 'pip._internal.vcs.versioncontrol.is_url' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:9:1: 'pip._internal.vcs.versioncontrol.make_vcs_requirement_url' imported but unused
+.\venv\Lib\site-packages\pip\_internal\vcs\__init__.py:9:1: 'pip._internal.vcs.versioncontrol.vcs' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\typing_extensions.py:1814:5: redefinition of unused '_ConcatenateGenericAlias' from line 1764
+.\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py:9:1: 'typing.Union' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:11:1: 'shutil' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:21:20: undefined name 'basestring'
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:22:17: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:31:26: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:46:17: undefined name 'raw_input'
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:64:5: 'io.StringIO' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:67:5: 'io.TextIOWrapper as file_type' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:68:5: 'builtins' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:69:5: 'configparser' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.urlparse' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.urlunparse' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.urljoin' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.urlsplit' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.urlunsplit' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.unquote' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.splittype' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:70:5: 'urllib.parse.quote' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.urlretrieve' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.url2pathname' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.pathname2url' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.Request' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.urlopen' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.HTTPBasicAuthHandler' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.HTTPPasswordMgr' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.HTTPHandler' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.HTTPRedirectHandler' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:72:5: 'urllib.request.build_opener' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:77:9: 'urllib.request.HTTPSHandler' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:78:5: 'urllib.error.ContentTooShortError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:78:5: 'urllib.error.URLError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:78:5: 'urllib.error.HTTPError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:79:5: 'http.client as httplib' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:80:5: 'urllib.request as urllib2' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:81:5: 'xmlrpc.client as xmlrpclib' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:82:5: 'queue' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:84:5: 'html.entities as htmlentitydefs' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:86:5: 'itertools.filterfalse' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:319:1: 'sysconfig' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:480:5: 'cgi.escape' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:484:5: 'html.unescape' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\distlib\compat.py:505:37: undefined name 'get_ident'
+.\venv\Lib\site-packages\pip\_vendor\distlib\metadata.py:954:9: local variable 'author' is assigned to but never used
+.\venv\Lib\site-packages\pip\_vendor\distlib\metadata.py:955:9: local variable 'maintainer' is assigned to but never used
+.\venv\Lib\site-packages\pip\_vendor\idna\compat.py:1:1: 'from .core import *' used; unable to detect undefined names
+.\venv\Lib\site-packages\pip\_vendor\idna\compat.py:2:1: 'from .codec import *' used; unable to detect undefined names
+.\venv\Lib\site-packages\pip\_vendor\idna\compat.py:6:12: 'encode' may be undefined, or defined from star imports: .codec, .core
+.\venv\Lib\site-packages\pip\_vendor\idna\compat.py:9:12: 'decode' may be undefined, or defined from star imports: .codec, .core
+.\venv\Lib\site-packages\pip\_vendor\idna\core.py:5:1: 'typing.Optional' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\idna\__init__.py:1:1: '.package_data.__version__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py:1:1: 'from .exceptions import *' used; unable to detect undefined names
+.\venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py:1:1: '.exceptions.*' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py:2:1: '.ext.ExtType' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py:2:1: '.ext.Timestamp' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py:17:9: '.fallback.Unpacker' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\platformdirs\android.py:130:28: undefined name 'android'
+.\venv\Lib\site-packages\pip\_vendor\platformdirs\windows.py:261:9: 'winreg' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\pygments\lexer.py:229:27: undefined name 'chardet'
+.\venv\Lib\site-packages\pip\_vendor\requests\adapters.py:10:1: 'socket' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\adapters.py:78:5: 'ssl' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:40:1: 'json' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:41:1: 'json.JSONDecodeError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:44:1: 'collections.OrderedDict' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:45:1: 'collections.abc.Callable' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:45:1: 'collections.abc.Mapping' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:45:1: 'collections.abc.MutableMapping' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:46:1: 'http.cookiejar as cookielib' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:47:1: 'http.cookies.Morsel' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:48:1: 'io.StringIO' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.quote' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.quote_plus' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.unquote' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.unquote_plus' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urldefrag' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urlencode' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urljoin' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urlparse' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urlsplit' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:53:1: 'urllib.parse.urlunparse' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:65:1: 'urllib.request.getproxies' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:65:1: 'urllib.request.getproxies_environment' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:65:1: 'urllib.request.parse_http_list' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:65:1: 'urllib.request.proxy_bypass' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\compat.py:65:1: 'urllib.request.proxy_bypass_environment' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\models.py:13:1: 'encodings.idna' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\sessions.py:33:1: '.models.REDIRECT_STATI' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\sessions.py:41:1: '.utils.should_bypass_proxies' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\utils.py:28:1: '._internal_utils.HEADER_VALIDATORS' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\utils.py:28:1: '._internal_utils.to_native_string' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\utils.py:114:5: redefinition of unused 'proxy_bypass' from line 43
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:60:19: redefinition of unused 'patch' from line 159
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:146:1: '.packages' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:146:1: '.utils' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__author__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__author_email__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__build__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__cake__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__copyright__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__description__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__license__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__title__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__url__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:147:1: '.__version__.__version__' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.delete' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.get' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.head' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.options' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.patch' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.post' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.put' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:159:1: '.api.request' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.ConnectionError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.ConnectTimeout' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.HTTPError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.JSONDecodeError' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.ReadTimeout' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.RequestException' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.Timeout' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.TooManyRedirects' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:160:1: '.exceptions.URLRequired' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:172:1: '.models.PreparedRequest' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:172:1: '.models.Request' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:172:1: '.models.Response' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:173:1: '.sessions.Session' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:173:1: '.sessions.session' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\requests\__init__.py:174:1: '.status_codes.codes' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\rich\align.py:291:5: redefinition of unused 'Console' from line 17
+.\venv\Lib\site-packages\pip\_vendor\rich\color.py:597:5: redefinition of unused 'Text' from line 15
+.\venv\Lib\site-packages\pip\_vendor\rich\console.py:524:15: undefined name 'get_ipython'
+.\venv\Lib\site-packages\pip\_vendor\rich\console.py:2502:19: f-string is missing placeholders
+.\venv\Lib\site-packages\pip\_vendor\rich\control.py:218:5: redefinition of unused 'Console' from line 13
+.\venv\Lib\site-packages\pip\_vendor\rich\emoji.py:85:5: redefinition of unused 'Console' from line 17
+.\venv\Lib\site-packages\pip\_vendor\rich\jupyter.py:11:5: redefinition of unused 'ConsoleRenderable' from line 4
+.\venv\Lib\site-packages\pip\_vendor\rich\live.py:279:5: redefinition of unused 'Live' from line 35
+.\venv\Lib\site-packages\pip\_vendor\rich\logging.py:278:9: local variable 'foos' is assigned to but never used
+.\venv\Lib\site-packages\pip\_vendor\rich\panel.py:296:5: redefinition of unused 'Console' from line 14
+.\venv\Lib\site-packages\pip\_vendor\rich\panel.py:301:5: redefinition of unused 'Padding' from line 8
+.\venv\Lib\site-packages\pip\_vendor\rich\progress.py:1251:17: f-string is missing placeholders
+.\venv\Lib\site-packages\pip\_vendor\rich\screen.py:9:5: '.console.Group' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\rich\screen.py:34:9: redefinition of unused 'Group' from line 9
+.\venv\Lib\site-packages\pip\_vendor\rich\segment.py:708:5: redefinition of unused 'Console' from line 30
+.\venv\Lib\site-packages\pip\_vendor\rich\syntax.py:843:5: redefinition of unused 'sys' from line 4
+.\venv\Lib\site-packages\pip\_vendor\rich\table.py:923:5: redefinition of unused 'Console' from line 28
+.\venv\Lib\site-packages\pip\_vendor\rich\table.py:925:5: redefinition of unused 'Table' from line 151
+.\venv\Lib\site-packages\pip\_vendor\rich\text.py:1333:5: redefinition of unused 'Console' from line 32
+.\venv\Lib\site-packages\pip\_vendor\rich\traceback.py:165:14: undefined name 'get_ipython'
+.\venv\Lib\site-packages\pip\_vendor\rich\traceback.py:725:5: redefinition of unused 'sys' from line 6
+.\venv\Lib\site-packages\pip\_vendor\rich\traceback.py:732:9: local variable '_rich_traceback_guard' is assigned to but never used
+.\venv\Lib\site-packages\pip\_vendor\rich\traceback.py:733:9: local variable 'zed' is assigned to but never used
+.\venv\Lib\site-packages\pip\_vendor\rich\traceback.py:749:17: undefined name 'slfkjsldkfj'
+.\venv\Lib\site-packages\pip\_vendor\rich\_log_render.py:90:5: redefinition of unused 'Console' from line 8
+.\venv\Lib\site-packages\pip\_vendor\rich\__init__.py:6:1: '._extension.load_ipython_extension' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\truststore\__init__.py:10:5: undefined name '_api'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\connection.py:14:1: '.packages.six.moves.http_client.HTTPException' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\urllib3\connection.py:46:1: '._collections.HTTPHeaderDict' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\urllib3\connection.py:569:5: redefinition of unused 'HTTPSConnection' from line 286
+.\venv\Lib\site-packages\pip\_vendor\urllib3\__init__.py:27:5: 'urllib3_secure_extra' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:49:21: undefined name 'basestring'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:50:27: undefined name 'long'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:52:17: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:722:16: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:824:37: undefined name 'basestring'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:828:32: undefined name 'file'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:829:38: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:841:32: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:847:32: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:855:36: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:859:23: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py:860:21: undefined name 'unicode'
+.\venv\Lib\site-packages\pip\_vendor\urllib3\util\queue.py:8:5: 'Queue as _unused_module_Queue' imported but unused
+.\venv\Lib\site-packages\pip\_vendor\urllib3\util\ssl_match_hostname.py:82:15: undefined name 'unicode'

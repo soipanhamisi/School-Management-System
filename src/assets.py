@@ -46,3 +46,10 @@ def Choice(inputString: str, inputRange: list):
         Enter()
         rprint(f"[bold red]ERROR : Enter the choice from {inputRange}")
         return Choice(inputString, inputRange)
+    
+
+def brokenFunction():
+    return "this line"
+    print("this line is unreachable because it's already been returned")
+
+

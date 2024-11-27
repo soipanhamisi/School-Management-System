@@ -12,6 +12,7 @@ from getpass import getpass
 from rich.console import Console
 from rich import print as rprint
 from rich.table import Table
+from os import path
 
 load_dotenv(find_dotenv())
 console = Console()

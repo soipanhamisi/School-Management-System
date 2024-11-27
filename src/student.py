@@ -67,6 +67,8 @@ def Addstudent(cursor,connection,console):
         rprint("\nEnter the Address(Max 50 Characters)")
         studentAddress = input(":")
         studentPh = Checker("Enter the Phone Number(10 Digits):", "int")
+        rprint("\n Enter the email address") 
+        studentEmail = input(":") #Creating an email address that is never used
 
         cursor.execute("select class,division,class_id from Class")
 
@@ -390,3 +392,6 @@ def Removestudent(cursor,connection,console):
         Lag()
         return 0
     
+
+def ModifyStudent(studentID, cursor, connection, console): #Adding a function that does nothing, never used
+    return

@@ -352,3 +352,26 @@ def RemoveTeacher(cursor,connection,console):
         Lag()
         return 0
     
+
+
+def complex_function(x,y,z,a,b,c): #for the cyclomatic complexity
+    if x > 0:
+        if x < 10:
+            if x % 2 == 0:
+                return "Even and within range"
+            else:
+                return "Odd and within range"
+        else:
+            return "Out of range"
+    else:
+        return "Negative"
+
+def deep_nesting_function():
+    if a:
+        if b:
+            if c:
+                if d:
+                    if e:
+                        if f:
+                            if g:
+                                print("this is a deep nested function with non-existed variables")

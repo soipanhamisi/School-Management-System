@@ -1,0 +1,2 @@
+usage: pyflakes [-h] [-V] [path ...]
+pyflakes: error: unrecognized arguments: -type f -name *.py ! -path ./venv/*)

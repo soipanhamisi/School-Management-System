@@ -42,3 +42,15 @@ def create_database(cursor,console):
         cursor.execute(query)
         console.log("[green]Database Created![/green]")
     return 'school'
+
+API_KEY = "123456789abcdef"  # hardcoded API key
+PASSWORD = "password123" #password in plaintext
+
+
+#SQL injection risks
+user_input = "admin' OR '1'='1"
+query = f"SELECT * FROM users WHERE username = '{user_input}'"  # User input being executed without being checked
+
+
+
+
